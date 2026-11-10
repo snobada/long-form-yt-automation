@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "Nature's Unlikely Partners",
+    "topic": "Symbiotic relationships in the natural world",
+    "language": "en",
+    "targetDurationSec": 180
+  },
+  "subtitles": { "enabled": true },
+  "music": { "file": "calm.mp3", "volume": 0.12, "duckedVolume": 0.04 }
+}

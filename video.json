@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "title": "Nature's Unlikely Partners",
+    "topic": "Symbiotic relationships in the natural world",
+    "language": "en",
+    "targetDurationSec": 180
+  },
+  "subtitles": {
+    "enabled": true
+  },
+  "music": {
+    "file": "calm.mp3",
+    "volume": 0.12,
+    "duckedVolume": 0.04
+  },
+  "scenes": [
+    {
+      "narration": "You have probably used the word energy a thousand times today.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans standing in a bright kitchen looking surprised, many small golden tally marks floating around his head [LABEL: 1,000 TIMES]",
+      "id": "ch1_s1",
+      "chapter": 1,
+      "imageFile": "images/ch1_s1.jpg"
+    },
+    {
+      "narration": "You wake up low on it.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans sitting on the edge of a bed in a sunny bedroom, yawning with sleepy half-closed eyes and rubbing one eye, a small empty battery symbol floating above his head",
+      "id": "ch1_s2",
+      "chapter": 1
+    },
+    {
+      "narration": "Your phone is low on it by noon.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans on a sunny street looking worried at a small smartphone with a red low battery symbol, a bright sun high overhead",
+      "id": "ch1_s3",
+      "chapter": 1
+    },
+    {
+      "narration": "But here is a strange question.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans tilting his head thoughtfully with one finger raised, standing on a grassy hill, a big cloud shaped like a question mark in the blue sky",
+      "id": "ch1_s4",
+      "chapter": 1
+    },
+    {
+      "narration": "What is it?",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans looking curiously at a small round golden orb floating above his open palm, in a quiet green meadow",
+      "id": "ch1_s5",
+      "chapter": 1
+    },
+    {
+      "narration": "Not what it does.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans pushing a small wooden cart on a dirt path while shaking his head no with one hand raised, green meadow behind him",
+      "id": "ch1_s6",
+      "chapter": 1
+    },
+    {
+      "narration": "What it actually is.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans crouching and peering through a big magnifying glass at a small round golden orb sitting on a rock, wide curious eyes",
+      "id": "ch1_s7",
+      "chapter": 1
+    },
+    {
+      "narration": "Before we begin, a promise.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans holding one hand up with his little finger raised like making a promise, friendly smile, standing on a grassy hill under a blue sky",
+      "id": "ch1_s8",
+      "chapter": 1
+    },
+    {
+      "narration": "Everything I tell you about real science is real.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans standing proudly beside a neat blue science book and a flask of green liquid on a wooden table outdoors, giving a thumbs up",
+      "id": "ch1_s9",
+      "chapter": 1
+    },
+    {
+      "narration": "But the big idea you are about to meet is not science.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans shrugging with both palms up on a grassy field, a pale purple cloud floating above his head",
+      "id": "ch1_s10",
+      "chapter": 1
+    },
+    {
+      "narration": "It is an original thought experiment, made up for the fun of thinking.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans sitting on a rock with a thoughtful face, a big pale purple thought cloud above him full of small golden arrows and sparkles [LABEL: THOUGHT EXPERIMENT]",
+      "id": "ch1_s11",
+      "chapter": 1
+    },
+    {
+      "narration": "I will always tell you which is which.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans standing at a fork in a dirt path between two wooden signposts pointing different ways, scratching his head",
+      "id": "ch1_s12",
+      "chapter": 1
+    },
+    {
+      "narration": "Real science first.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans standing beside a large open blue science book and a flask on a wooden table outdoors, calm and confident",
+      "id": "ch1_s13",
+      "chapter": 1
+    },
+    {
+      "narration": "Imagination second.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans holding a small pale purple cloud in his hand with sparkles around it, standing in a dreamy green meadow",
+      "id": "ch1_s14",
+      "chapter": 1
+    },
+    {
+      "narration": "So what do scientists say energy is?",
+      "imagePrompt": "three stick-figure scientists in white lab coats standing in a row on a grassy hill, each with a small thought cloud holding a golden orb, a stick-figure man in a blue t-shirt and blue jeans looking at them curiously",
+      "id": "ch1_s15",
+      "chapter": 1
+    },
+    {
+      "narration": "In physics, it is usually described as the ability to cause change.",
+      "imagePrompt": "a gray boulder rolling down a tan dirt path after a push, small dust clouds behind it, a stick-figure man in a blue t-shirt and blue jeans standing beside it with his hands out [LABEL: ENERGY = ABILITY TO CAUSE CHANGE]",
+      "id": "ch1_s16",
+      "chapter": 1
+    },
+    {
+      "narration": "To move something.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans pushing a small wooden cart along a tan dirt path, dust puffs behind the wheels",
+      "id": "ch1_s17",
+      "chapter": 1
+    },
+    {
+      "narration": "To heat something.",
+      "imagePrompt": "a metal kettle on a small stove with steam rising, a stick-figure man in a blue t-shirt and blue jeans holding his hands out to warm them",
+      "id": "ch1_s18",
+      "chapter": 1
+    },
+    {
+      "narration": "To do work.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans lifting a heavy wooden crate onto a stack of crates, sweat drops flying off his head",
+      "id": "ch1_s19",
+      "chapter": 1
+    },
+    {
+      "narration": "It comes in many forms.",
+      "imagePrompt": "a long wooden table in a green meadow with a row of five objects: a spinning top, a stretched spring, a gray rock, a candle and a red apple, a stick-figure man in a blue t-shirt and blue jeans spreading his arms proudly behind it",
+      "id": "ch1_s20",
+      "chapter": 1
+    },
+    {
+      "narration": "The energy of something moving.",
+      "imagePrompt": "a red ball racing along a dirt path with speed lines and dust behind it, a stick-figure man in a blue t-shirt and blue jeans watching it go",
+      "id": "ch1_s21",
+      "chapter": 1
+    },
+    {
+      "narration": "The energy stored in a stretched spring, or a rock lifted high.",
+      "imagePrompt": "on the left a coiled spring stretched wide, on the right a gray rock sitting on top of a tall stone ledge, a stick-figure man in a blue t-shirt and blue jeans standing between them looking up",
+      "id": "ch1_s22",
+      "chapter": 1
+    },
+    {
+      "narration": "Heat.",
+      "imagePrompt": "a campfire with orange flames and wavy heat lines rising above it, a stick-figure man in a blue t-shirt and blue jeans warming his hands beside it",
+      "id": "ch1_s23",
+      "chapter": 1
+    },
+    {
+      "narration": "Light.",
+      "imagePrompt": "a bright smiling sun with straight golden rays shining over green hills, a stick-figure man in a blue t-shirt and blue jeans shading his eyes with one hand",
+      "id": "ch1_s24",
+      "chapter": 1
+    },
+    {
+      "narration": "And the chemical energy hiding in your breakfast.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans eating a bowl of cereal at a breakfast table with a red apple and a banana, small golden sparkles rising from the food",
+      "id": "ch1_s25",
+      "chapter": 1
+    },
+    {
+      "narration": "And there is one rule physicists trust above almost everything else.",
+      "imagePrompt": "three stick-figure physicists in white lab coats giving thumbs up beside a large stone tablet with one golden arrow carved on it",
+      "id": "ch1_s26",
+      "chapter": 1
+    },
+    {
+      "narration": "Energy is never created or destroyed.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans holding a small golden orb in both hands, a red circle with a diagonal slash over a tiny trash can beside him, grassy field",
+      "id": "ch1_s27",
+      "chapter": 1
+    },
+    {
+      "narration": "It only changes form.",
+      "imagePrompt": "a golden orb changing step by step into a small flame and then into a spinning top, connected by curved arrows along a grassy path",
+      "id": "ch1_s28",
+      "chapter": 1
+    },
+    {
+      "narration": "A swinging pendulum trades height for speed, and speed for height, again and again.",
+      "imagePrompt": "a big pendulum shown at the top of its swing and at the bottom of its swing, small speed lines at the bottom, a stick-figure man in a blue t-shirt and blue jeans watching",
+      "id": "ch1_s29",
+      "chapter": 1
+    },
+    {
+      "narration": "The total never changes.",
+      "imagePrompt": "a small see-saw perfectly balanced in a meadow with a golden orb on each end, a stick-figure man in a blue t-shirt and blue jeans sitting nearby smiling",
+      "id": "ch1_s30",
+      "chapter": 1
+    },
+    {
+      "narration": "Now here is the strange part.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans leaning in with wide surprised eyes and one finger raised, a big pale golden exclamation cloud above him, on a grassy hill",
+      "id": "ch1_s31",
+      "chapter": 1
+    },
+    {
+      "narration": "The physicist Richard Feynman pointed out that we do not truly know what energy is.",
+      "imagePrompt": "an old stick-figure physicist with a big round white head, wild white hair, small round glasses and a white lab coat, standing at a chalkboard on a grassy hill, a stick-figure man in a blue t-shirt and blue jeans listening beside him [LABEL: RICHARD FEYNMAN]",
+      "id": "ch1_s32",
+      "chapter": 1
+    },
+    {
+      "narration": "We only know the rule it follows.",
+      "imagePrompt": "the old physicist with wild white hair holding a long scroll covered in small golden arrows and shrugging, a stick-figure man in a blue t-shirt and blue jeans beside him tilting his head",
+      "id": "ch1_s33",
+      "chapter": 1
+    },
+    {
+      "narration": "He compared it to counting a child's toy blocks.",
+      "imagePrompt": "a pile of colorful wooden toy blocks on a patch of grass, a stick-figure man in a blue t-shirt and blue jeans holding up one red block with a curious look",
+      "id": "ch1_s34",
+      "chapter": 1
+    },
+    {
+      "narration": "You can count them, and the number always stays the same.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans counting five colorful toy blocks on his fingers, five blocks in a row on the ground in front of him",
+      "id": "ch1_s35",
+      "chapter": 1
+    },
+    {
+      "narration": "But the blocks themselves are never there to point at.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans pointing at empty air above a row of toy blocks with a puzzled face, a faint dotted outline of an invisible object floating there",
+      "id": "ch1_s36",
+      "chapter": 1
+    },
+    {
+      "narration": "Energy is a number that always balances.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans standing happily beside a perfectly level balance scale with a golden orb on one side and colorful blocks on the other, a green checkmark floating above",
+      "id": "ch1_s37",
+      "chapter": 1
+    },
+    {
+      "narration": "You can calculate it, and you can predict with it.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans looking confidently at a simple curved graph line drawn on a chalkboard stand, a small telescope pointing at the sky beside him",
+      "id": "ch1_s38",
+      "chapter": 1
+    },
+    {
+      "narration": "But ask what it is made of, and the answer goes quiet.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans leaning over a deep round stone well and whispering into it, one tiny ripple on the dark water far below",
+      "id": "ch1_s39",
+      "chapter": 1
+    },
+    {
+      "narration": "So what if that quiet answer is hiding something?",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans holding a small closed treasure chest and looking at it sideways with narrowed round eyes, meadow behind him",
+      "id": "ch1_s40",
+      "chapter": 1
+    },
+    {
+      "narration": "What if energy is not a thing we have, but a story about where objects are going?",
+      "imagePrompt": "a long dotted golden path across green hills with a ball, a leaf and a teacup travelling along it, a stick-figure man in a blue t-shirt and blue jeans pointing along the path with an excited face",
+      "id": "ch1_s41",
+      "chapter": 1
+    },
+    {
+      "narration": "Let us play a game.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans grinning and holding a pair of colorful dice, rubbing his hands together, standing on a grassy hill",
+      "id": "ch1_s42",
+      "chapter": 1
+    },
+    {
+      "narration": "Forget everything you know about energy doing work.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans tapping his head while tiny golden sparks float out of his ears, standing in a green meadow",
+      "id": "ch1_s43",
+      "chapter": 1
+    },
+    {
+      "narration": "Throw it away.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans throwing a small blue science book over his shoulder, the book flying through the air along a dotted arc, green meadow",
+      "id": "ch1_s44",
+      "chapter": 1
+    },
+    {
+      "narration": "We are building a brand new idea from scratch.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans drawing the first small golden arrow with a big pencil on a large blank sheet standing upright, a pile of crumpled paper behind him",
+      "id": "ch1_s45",
+      "chapter": 1
+    },
+    {
+      "narration": "Imagine that every object in the universe has its own secret direction.",
+      "imagePrompt": "a gray rock, a green leaf, a white teacup and a sleepy orange cat in a row on a grassy hill, each with its own small golden arrow above it pointing a different way, a stick-figure man in a blue t-shirt and blue jeans waving behind them [LABEL: SECRET DIRECTION]",
+      "id": "ch1_s46",
+      "chapter": 1
+    },
+    {
+      "narration": "Not left or right.",
+      "imagePrompt": "a wooden signpost with two arrow boards pointing left and right, each board crossed out with a big red X, grassy hill behind it",
+      "id": "ch1_s47",
+      "chapter": 1
+    },
+    {
+      "narration": "Not north or south.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans holding a small compass and looking confused, a big red X over the compass needle",
+      "id": "ch1_s48",
+      "chapter": 1
+    },
+    {
+      "narration": "A direction that belongs only to that object.",
+      "imagePrompt": "a single gray rock with one small golden arrow floating above it pointing up and to the right, a stick-figure man in a blue t-shirt and blue jeans crouching to look at it closely",
+      "id": "ch1_s49",
+      "chapter": 1
+    },
+    {
+      "narration": "In this imaginary world, energy is not the power to do work.",
+      "imagePrompt": "a stick-figure man in a blue t-shirt and blue jeans shaking his head with both palms up beside a heavy wooden crate, a small red X floating in the air",
+      "id": "ch1_s50",
+      "chapter": 1
+    },
+    {
+      "narration": "Energy is how far an object can keep travelling along its own direction before it naturally comes to rest.",
+      "imagePrompt": "a round ball resting with a sleepy face at the far end of a long dotted golden path stretching across a green hill, a measuring bracket spanning the whole path [LABEL: ENERGY = HOW FAR IT CAN TRAVEL]",
+      "id": "ch1_s51",
+      "chapter": 1
+    },
+    {
+      "narration": "A lot of energy means a long journey ahead.",
+      "imagePrompt": "a happy round ball at the start of a very long dotted golden path winding far across hills into the distance",
+      "id": "ch1_s52",
+      "chapter": 1
+    },
+    {
+      "narration": "A little energy means the journey is almost over.",
+      "imagePrompt": "a tiny yawning ball at the start of a very short dotted golden path with only three dots and a small finish flag",
+      "id": "ch1_s53",
+      "chapter": 1
+    },
+    {
+      "narration": "But what happens when two objects, each with its own direction, meet?",
+      "imagePrompt": "two golden arrows pointing toward each other across a grassy field, a round ball behind each arrow, a stick-figure man in a blue t-shirt and blue jeans watching from a small hill",
+      "id": "ch1_s54",
+      "chapter": 1
+    },
+    {
+      "narration": "That is where this idea gets interesting.",
+      "imagePrompt": "two big golden arrows facing each other with a small gap between the tips and tiny bright sparks starting to appear in the gap, a stick-figure man in a blue t-shirt and blue jeans leaning forward from a rock, excited",
+      "id": "ch1_s55",
+      "chapter": 1
+    }
+  ]
+}
